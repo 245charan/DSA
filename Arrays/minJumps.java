@@ -18,8 +18,6 @@ static int minJumps(int[] arr){
         }return jumps;
     }
 /*
-Concise C++ solution (Greedy):
-https://ide.geeksforgeeks.o...
 
 Time Complexity: O(n)
 Auxiliary Memory: O(1)
@@ -31,7 +29,9 @@ Explanation: We traverse the array till the second last element, and maintain th
 3. The end of the current window, currEnd
 
 We update the farthest as max. of the current farthest we have, and i + arr[i].
-We walk through the entire current window, collecting the best possible farthest, and when we reach the end of the current window, it's time to switch to another window. Switching to another window is analogous to incrementing a jump, and now we set the current end to the farthest we could find, meaning we make the jump to that point in the array which carried us the farthest. We can only come to know this after traversing the whole window, hence we keep collecting possible solutions.
+We walk through the entire current window, collecting the best possible farthest, and when we reach the end of the current window, it's time to switch to another window.
+Switching to another window is analogous to incrementing a jump, and now we set the current end to the farthest we could find, meaning we make the jump to that point in the array which carried us the farthest. 
+We can only come to know this after traversing the whole window, hence we keep collecting possible solutions.
 Finally, once we're at the last element, we've reached our destination (and don't need to loop through it), so we return the number of jumps we've collected so far.
 
 Optimizations:
