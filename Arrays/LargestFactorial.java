@@ -3,11 +3,9 @@
 static void multiply(int nextFactorialnum,ArrayList<Integer> res){
         int carry=0,prod;
         for(int i = 0;i<res.size();i++){
-            int temp = res.get(i);
             prod = res.get(i)*nextFactorialnum+carry;
-            temp=prod%10;
             res.remove(i);
-            res.add(i,temp);
+            res.add(i,prod%10);
             carry = prod/10;
         }
         while(carry!=0){
