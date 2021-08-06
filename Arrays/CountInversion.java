@@ -72,3 +72,25 @@ class Solution
     }
     
 }
+/*
+We basically need to make the comparisons in the existing array and while doing any comparison,
+we need to know that how would the two numbers being compared would be ordered in the sorted version of this array.
+So, how about running a sorting algorithm itself?
+The algorithms like Bubble Sort, Insertion Sort and Selection sort are O(n2). 
+We can achieve this complexity even via the naive approach discussed in the previous hint, so no use of it.
+
+What about getting to this via merge sort?
+
+
+Use Merge sort algorithm, and sort the array.
+=> In merge function for merge sort, while comparing the elements, if element in right array is smaller, then it is an inversion (Why..??)
+=> This means that this smaller element in the original array, is behind larger elements. 
+=> So add the number of larger elements or elements left in the left-array, to the value of counter.
+=> This process is repeated again and again for complete Merge Sort
+=> Finally output counter variable. This is the answer.
+
+
+
+
+
+*/
