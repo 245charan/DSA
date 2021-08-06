@@ -1,6 +1,9 @@
+// Expected Time Complexity: O(NLogN).
+// Expected Auxiliary Space: O(N).
+
 class Solution
 {
-    //Function to count inversions in the array.
+
     static long inversionCount(long arr[], long n)
     {
         long temp[] = new long[(int)n];
@@ -8,8 +11,6 @@ class Solution
         return _mergeSort(arr, temp, 0, n - 1); 
     }
     
-    //Function to mergesort the array, which uses divide and conquer algorithm
-    //on left and right halves of array for mergesort operation.
     static long _mergeSort(long arr[], long temp[], 
         long left, long right)
     {
@@ -17,21 +18,13 @@ class Solution
         if (right > left) { 
             mid = (right + left) / 2;
             
-            //Calling recursive function to sort left half of the array.
             inv_count = _mergeSort(arr, temp, left, mid);
-            
-            //Calling recursive function to sort right half of the array.
             inv_count += _mergeSort(arr, temp, mid + 1, right);
-            
-            //Calling merge function which sorts and merges both halves
-            //of the array obtained after calling both recursive function.
             inv_count += merge(arr, temp, left, mid + 1, right); 
         } 
-        //returning the count of inversions in the array.
         return inv_count; 
     }
     
-    //Function to sort and merge two parts of array and return inversion count. 
     static long merge(long arr[], long temp[], long left,
     long mid, long right) 
     { 
