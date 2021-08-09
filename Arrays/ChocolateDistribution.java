@@ -11,3 +11,8 @@ class Solution
         return minDiff;
     }
 }
+/**
+    => Sort the array and Initialize a varible to store the minDiff.
+    => Traverse the array with the condition i+m-1.
+    => Check the minimum difference and update the minDiff
+*/
