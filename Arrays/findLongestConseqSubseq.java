@@ -1,4 +1,4 @@
-//Function to return length of longest subsequence of consecutive integers.
+//Function to return length of longest subsequence of consecutive integers. in TC - O(n), SC - O(n)
 	static int findLongestConseqSubseq(int arr[], int N)
 	{
 	   // add your code here
@@ -7,17 +7,31 @@
 	       s.add(num);
 	   }
 	   
-	   int longestSteak = 0;
+	   int longestStreak = 0;
 	   for(int num : arr ){
     	   if(!s.contains(num-1)){
-    	       int nextVal = num;
-    	       int CurrentSteak = 1;
-    	       while(s.contains(nextval+1)){
+    	       int CurrentStreak = 1;
+    	       while(s.contains(num+1)){
     	           CurrentSteak++;
-    	           nextval+=1;
+    	           num+=1;
     	       }
-    	       longestSteak = Math.max(longestSteak,CurrentSteak);
+    	       longestStreak = Math.max(longestStreak,CurrentStreak);
 	      }
 	   }
-	   return longestSteak;
+	   return longestStreak;
 	}
+
+
+/**
+	=> Use a Hashset to insert whole array.
+	=> Maintain a counter longestStresk to store longest Consecutive Sequence length.
+	=> Traverse through the array, only if curr value i.e num-1 is not contains in Hashset
+	   then check for curr value plus one  i.e num+1 is present in Hashset or not, loop it
+	   until the condition fails .
+	=> If num+1 is present in Hashset then incremnt the value of CurrentStreak, which is 
+	   already declared and initialized with 1 before even entering into loop.
+	=> Update the longestStreak with max of longestStreak or CurrentStreak.
+	=> return longestConseqSubset
+	   
+	    
+**/
