@@ -1,4 +1,6 @@
 // All elements on the left half must be less than or equal to right half
+// Time Complexity : O(logn) 
+// Algorithmic Paradigm: Divide and Conquer 
 
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
