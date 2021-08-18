@@ -2,8 +2,6 @@
 
 Collection of the solutions in Java
 
-## Important Questions
-
 S.No. | Question Name | Topic | Date |
 ------|---------------|-------|------|
 1 | [Trapping Rain Water](https://github.com/245charan/DSA/blob/main/Arrays/TrappingWater.java) | Arrays  | 02 August 21 |
