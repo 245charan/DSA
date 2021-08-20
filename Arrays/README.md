@@ -24,3 +24,4 @@ S.No. | Question Name | Topic | Date |
 20 | [Sub Array Sum Interval Equal to X ](https://github.com/245charan/DSA/blob/main/Arrays/subarraySum.java) | Arrays and Sliding Window| 18 August 21|
 21 | [Smallest Subarray With Sum Greater than X ](https://github.com/245charan/DSA/blob/main/Arrays/SamllestSubArraySum.java) | Arrays  and Sliding Window | 18 August 21|
 22 | [Merge Intervals](https://github.com/245charan/DSA/blob/main/Arrays/MergeIntervals.java) | Array of Arrays | 19 August 21 |
+23 | [Next Permutation](https://github.com/245charan/DSA/blob/main/Arrays/nextPermutation.java) | Arrays | 20 August 21 |
