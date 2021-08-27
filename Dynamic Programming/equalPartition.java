@@ -5,6 +5,12 @@
 	Output: YES
 	Explaination: 
 	The two parts are {1, 5, 5} and {11}.
+	
+	Input: N = 3
+	arr = {1, 3, 5}
+	Output: NO
+	Explaination: This array can never be 
+	partitioned into two such parts.
 */
 
 // Method 1
