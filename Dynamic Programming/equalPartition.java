@@ -1,4 +1,12 @@
 // TC -> O(N*sum of elements) SC -> O(sum of elements)
+/*
+	Input: N = 4
+	arr = {1, 5, 11, 5}
+	Output: YES
+	Explaination: 
+	The two parts are {1, 5, 5} and {11}.
+*/
+
 // Method 1
 class Solution{
     static int equalPartition(int N, int arr[])
