@@ -1,0 +1,7 @@
+class Solution
+{
+    public long countFriendsPairings(int n) 
+    { 
+       //code here
+    }
+} 
