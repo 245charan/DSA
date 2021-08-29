@@ -8,6 +8,9 @@ S.No. | Question Name | Topic | Date |
 4 | [ Egg Dropping Puzzle ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/eggDrop.java) | DP  | 26 August 21 |
 5 | [ Equal Sum Partition ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/equalPartition.java) | DP  | 27 August 21 |
 6 | [ Count Friends Pairings ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/countFriendsPairings.java) | DP  | 28 August 21 |
+7 | [ Count Friends Pairings ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/countFriendsPairings.java) | DP  | 28 August 21 |
+8 | [ Count Friends Pairings ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/countFriendsPairings.java) | DP  | 28 August 21 |
+
 
 
 
