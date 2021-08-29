@@ -24,7 +24,7 @@ Expected Auxiliary Space: O(N)
 class Solution 
 {
     //Function to find length of longest increasing subsequence.
-    static int longestSubsequence(int n, int arr[])
+    static int LongestInSubsequence(int n, int arr[])
     {
         // code here
         int max=0;
