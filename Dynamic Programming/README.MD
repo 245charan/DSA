@@ -10,7 +10,7 @@ S.No. | Question Name | Topic | Date |
 6 | [ Count Friends Pairings ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/countFriendsPairings.java) | DP  | 28 August 21 |
 7 | [ Maximum Sum Increasing Subsequence  ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/countFriendsPairings.java) | DP  | 29 August 21 |
 8 | [ Longest Increasing Subsequence ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/LongestInSubsequence.java) | DP  | 29 August 21 |
-8 | [ Maximum difference of zeros and ones ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxSubstring.java) | DP  | 30 August 21 |
+9 | [ Maximum difference of zeros and ones ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxSubstring.java) | DP  | 30 August 21 |
 
 
 
