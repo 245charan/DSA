@@ -21,10 +21,12 @@ S.No. | Question Name | Topic | Date |
 17 | [Get Pairs Count](https://github.com/245charan/DSA/blob/main/Arrays/getPairsCount.java) | Arrays and Hash | 15 August 21|
 18 | [Minimum Swaps](https://github.com/245charan/DSA/blob/main/Arrays/minSwap.java) | Arrays  and Sliding Window | 16 August 21|
 19 | [Palidrome Array](https://github.com/245charan/DSA/blob/main/Arrays/palinArray.java) | Arrays | 17 August 21|
-20 | [Sub Array Sum Interval Equal to X ](https://github.com/245charan/DSA/blob/main/Arrays/subarraySum.java) | Arrays and Sliding Window| 18 August 21|
+20 | [Sub Array Sum Interval Equal to X ](https://github.com/245charan/DSA/blob/main/Arrays/subarraySum.java) | Arrays and Sliding Window | 18 August 21|
 21 | [Smallest Subarray With Sum Greater than X ](https://github.com/245charan/DSA/blob/main/Arrays/SamllestSubArraySum.java) | Arrays  and Sliding Window | 18 August 21|
 22 | [Merge Intervals](https://github.com/245charan/DSA/blob/main/Arrays/MergeIntervals.java) | Array of Arrays | 19 August 21 |
 23 | [Next Permutation](https://github.com/245charan/DSA/blob/main/Arrays/nextPermutation.java) | Arrays | 20 August 21 |
 24 | [Array Subset of another array](https://github.com/245charan/DSA/blob/main/Arrays/isSubset.java) | Arrays | 21 August 21 |
 25 | [Three Way Partition](https://github.com/245charan/DSA/blob/main/Arrays/threeWayPartition.java) | Arrays | 22 August 21 |
+25 | [Count all subsequences having product less than K](https://github.com/245charan/DSA/blob/main/Arrays/numSubarrayProductLessThanK.java) | Arrays and Sliding Window | 1 September 21 |
+
 
