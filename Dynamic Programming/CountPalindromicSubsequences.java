@@ -27,6 +27,22 @@ class Solution
 {
     long countPS(String str)
     {
-        // Your code here
+       int n = str.length();
+        int mod = 1000000007;
+        long[][] dp = new long[n][n];
+        for(int gap = 0;gap<n;gap++){
+            for(int i=0;i<n-gap;i++){
+                int j = i+gap;
+                if(i==j){
+                    dp[i][j] = 1;
+                }else if(str.charAt(i) == str.charAt(j)){
+                    dp[i][j] = (dp[i+1][j] + dp[i][j-1] + 1) % mod;
+                }else{
+                    dp[i][j] = (dp[i+1][j] + (dp[i][j-1] - dp[i+1][j-1])) % mod;
+                    if(dp[i][j] < 0)dp[i][i] +=mod;
+                }
+            }
+        }
+        return dp[0][n-1];
     }
 }
