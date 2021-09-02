@@ -13,8 +13,8 @@ S.No. | Question Name | Topic | Date |
 9 | [ Maximum difference of zeros and ones ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxSubstring.java) | DP  | 30 August 21 |
 10 | [ Edit Distance ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/editDistance.java) | DP  | 31 August 21 |
 25 | [Count all subsequences having product less than K DP Solution](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/numSubarrayProductLessThanKDP.java) | DP | 1 September 21 |
-
-
+25 | [Count Palindromic Subsequences](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/CountPalindromicSubsequences.java
+) | DP |  September 21 |
 
 
 
