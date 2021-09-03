@@ -12,8 +12,10 @@ S.No. | Question Name | Topic | Date |
 8 | [ Longest Increasing Subsequence ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/LongestInSubsequence.java) | DP  | 29 August 21 |
 9 | [ Maximum difference of zeros and ones ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxSubstring.java) | DP  | 30 August 21 |
 10 | [ Edit Distance ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/editDistance.java) | DP  | 31 August 21 |
-25 | [Count all subsequences having product less than K DP Solution](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/numSubarrayProductLessThanKDP.java) | DP | 1 September 21 |
-25 | [Count Palindromic Subsequences](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/CountPalindromicSubsequences.java) | DP | 2 September 21 |
+11 | [ Count all subsequences having product less than K DP Solution ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/numSubarrayProductLessThanKDP.java) | DP | 1 September 21 |
+12 | [ Count Palindromic Subsequences ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/CountPalindromicSubsequences.java) | DP | 2 September 21 |
+13 | [ Gold Mine Problem ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxGold.java) | DP | 3 September 21 |
+
 
 
 
