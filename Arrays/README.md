@@ -28,5 +28,6 @@ S.No. | Question Name | Topic | Date |
 24 | [Array Subset of another array](https://github.com/245charan/DSA/blob/main/Arrays/isSubset.java) | Arrays | 21 August 21 |
 25 | [Three Way Partition](https://github.com/245charan/DSA/blob/main/Arrays/threeWayPartition.java) | Arrays | 22 August 21 |
 25 | [Count all subsequences having product less than K](https://github.com/245charan/DSA/blob/main/Arrays/numSubarrayProductLessThanK.java) | Arrays and Sliding Window | 1 September 21 |
+25 | [Minimum Size Subarray Sum](https://github.com/245charan/DSA/blob/main/Arrays/minSubArrayLen.java) | Arrays and Sliding Window | 5 September 21 |
 
 
