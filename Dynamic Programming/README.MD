@@ -15,7 +15,8 @@ S.No. | Question Name | Topic | Date |
 11 | [ Count all subsequences having product less than K DP Solution ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/numSubarrayProductLessThanKDP.java) | DP | 1 September 21 |
 12 | [ Count Palindromic Subsequences ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/CountPalindromicSubsequences.java) | DP | 2 September 21 |
 13 | [ Gold Mine Problem ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxGold.java) | DP | 3 September 21 |
-13 | [ Nth Catalan Number ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/findCatalan.java) | DP | 6 September 21 |
+14 | [ Nth Catalan Number ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/findCatalan.java) | DP | 6 September 21 |
+15 | [ Binominl Coefficient nCr ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/BinominlCoefficient.java) | DP | 7 September 21 |
 
 
 
