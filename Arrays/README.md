@@ -30,7 +30,9 @@ S.No. | Question Name | Topic | Date |
 25 | [Count all subsequences having product less than K](https://github.com/245charan/DSA/blob/main/Arrays/numSubarrayProductLessThanK.java) | Arrays and Sliding Window | 1 September 21 |
 25 | [Minimum Size Subarray Sum](https://github.com/245charan/DSA/blob/main/Arrays/minSubArrayLen.java) | Arrays and Sliding Window | 5 September 21 |
 26 | [Painting the Fence](https://github.com/245charan/DSA/blob/main/Arrays/countWays.java) | Arrays | 8 September 21 |rotateArr
-27 | [Rotate Array](https://github.com/245charan/DSA/blob/main/Arrays/rotateArr.java) | Arrays | 8 September 21 |
+27 | [Rotate Array](https://github.com/245charan/DSA/blob/main/Arrays/rotateArr.java) | Arrays | 9 September 21 |
+28 | [Union of two arrays](https://github.com/245charan/DSA/blob/main/Arrays/doUnion.java) | Arrays | 9 September 21 |
+
 
 
 
