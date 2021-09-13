@@ -32,7 +32,7 @@ S.No. | Question Name | Topic | Date |
 26 | [Painting the Fence](https://github.com/245charan/DSA/blob/main/Arrays/countWays.java) | Arrays | 8 September 21 |rotateArr
 27 | [Rotate Array](https://github.com/245charan/DSA/blob/main/Arrays/rotateArr.java) | Arrays | 9 September 21 |
 28 | [Union of two arrays](https://github.com/245charan/DSA/blob/main/Arrays/doUnion.java) | Arrays | 9 September 21 |
-
+29 | [ Max Sum without Adjacents ](https://github.com/245charan/DSA/blob/main/Arrays/findMaxSum.java) | Arrays | 13 September 21 |
 
 
 
