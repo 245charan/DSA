@@ -17,6 +17,7 @@ S.No. | Question Name | Topic | Date |
 13 | [ Gold Mine Problem ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/maxGold.java) | DP | 3 September 21 |
 14 | [ Nth Catalan Number ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/findCatalan.java) | DP | 6 September 21 |
 15 | [ Binominl Coefficient nCr ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/BinominlCoefficient.java) | DP | 7 September 21 |
+29 | [ Max Sum without Adjacents ](https://github.com/245charan/DSA/blob/main/Dynamic%20Programming/findMaxSumDP.java) | DP | 13 September 21 |
 
 
 
